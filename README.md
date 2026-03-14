@@ -1,2 +1,2 @@
 # g36
-felújítás 
+felújítási napló 
