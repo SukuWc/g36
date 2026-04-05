@@ -1,5 +1,45 @@
 # Felújítási napló
 
+## 2026.04.05.
+
+### Bontás
+- Konvektorokleszerelése, kémén visszafalazás
+- Gyerekszoba küszöb lebontása
+
+### Építés
+- Gyerekszoba gardrób boltív felfalazás
+- Vízóraszekrény fal javítás
+- Előszoba szekrény fal építés (2 sor tégla)
+
+### Takarítás
+- Törmelék kihordása
+- Ajtótok romok kihordása
+- Elszívó alkatrészek kihordása
+- Régi takarítószerek, tárgyak elhordása
+
+## 2026.04.02. 
+
+### Gépészet
+- WC helyének bejelölése, bevésés megtervezése
+- Fürdőszba mosdó feljelölése
+- Konyhai víz csatorna ág vésése
+
+### Építés
+- Fördőszoba fal helyének kimérése
+
+### Takarítás
+- Törmelék kihordása
+- Ervált festékréteg bontása a gyerekszobában
+
+## 2026.03.26.
+
+### Bontás
+- Gyerekszoba gardrób ajtótok kibontása
+
+### Építés
+- Gyerekszoba gardrób áthidaló befalazása
+- Ajtónyílás felfalazás
+
 ## 2026.03.19.
 
 ### Bontás
